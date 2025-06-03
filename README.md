@@ -47,6 +47,9 @@ This project is a Hangzhou Dianzi University (HDU) letter template based on LaTe
 - To replace images, simply upload new files to the `pic/` directory.
 - To adjust layout or style, modify settings in `main.tex`.
 
+## Demo
+![Demo](Demo.png)
+
 ## License
 
 For learning and communication only, commercial use is prohibited.
