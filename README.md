@@ -1,8 +1,8 @@
 # HDU-Letter-Template
 
-- **Language**: [English](README.md), [简体中文](README_zh.md)
+- **Language**: English, [简体中文](README_zh.md)
 
-![Author](https://img.shields.io/badge/Author-Lili_Liang-red)
+![Author](https://img.shields.io/badge/Author-Huangwei_Chen-red)
 ![Last Commit](https://img.shields.io/github/last-commit/HovChen/HDU-Letter-Template?color=yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/HovChen/HDU-Letter-Template)
 ![Language](https://img.shields.io/badge/language-latex-orange)
@@ -50,3 +50,7 @@ This project is a Hangzhou Dianzi University (HDU) letter template based on LaTe
 ## License
 
 For learning and communication only, commercial use is prohibited.
+
+## Reference
+
+This project refers to and is inspired by [ByteDance-Letter-Template](https://github.com/leungll/ByteDance-Letter-Template).

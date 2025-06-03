@@ -1,8 +1,8 @@
 # HDU-Letter-Template
 
-- **Language**: [English](README.md), [简体中文](README_zh.md)
+- **Language**: [English](README.md), 简体中文
 
-![Author](https://img.shields.io/badge/Author-Lili_Liang-red)
+![Author](https://img.shields.io/badge/Author-Huangwei_Chen-red)
 ![Last Commit](https://img.shields.io/github/last-commit/HovChen/HDU-Letter-Template?color=yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/HovChen/HDU-Letter-Template)
 ![Language](https://img.shields.io/badge/language-latex-orange)
@@ -50,3 +50,7 @@
 ## 许可证
 
 本项目仅供学习与交流使用，禁止用于商业用途。
+
+## 参考
+
+本项目参考并致敬 [ByteDance-Letter-Template](https://github.com/leungll/ByteDance-Letter-Template)。
